@@ -32,12 +32,12 @@ const components = {
         <Link href="/">
          <Heading level={3} className="!text-2xl !font-bold">
           LADSU
-          <span className="text-secondary-600 font-light hover:!text-green-600">
+          <span className="text-secondary-700 font-light hover:!text-secondary-400">
             Estates
           </span>
         </Heading></Link>
         <p className="text-muted-foreground mt-2">
-          <span className="font-bold">Welcome!</span> Please sign in to continue
+          <span className="font-bold">Welcome!</span> Please Enter your Credentials to continue
         </p>
       </View>
     );

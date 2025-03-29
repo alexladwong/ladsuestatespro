@@ -59,7 +59,7 @@ const Navbar = () => {
               />
               <div className="text-xl font-bold">
                 LADSU
-                <span className="text-secondary-600 font-light hover:!text-green-500">
+                <span className="text-secondary-600 font-light hover:!text-secondary-400">
                   Estates
                 </span>
               </div>
